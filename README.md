@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quanhnv
+- 👋 Hi, I’m Quan(Henry) Nguyen - from Vietnam
 - 👀 I’m interested in making Web application, mastering DataStructures & Algorithms
 - 🌱 I’m currently learning Asp.net Core, ReactJS
 <!---

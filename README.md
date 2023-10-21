@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Quan(Henry) Nguyen - from Vietnam
+- 👋 Hi, I’m Quan Nguyen - from Vietnam
 - 👀 I’m interested in making Web applications, mastering data structures and algorithms, and always learning.
 - 🌱 I’m currently working as Full-stack Developer
 <!---

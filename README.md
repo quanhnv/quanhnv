@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👯 I'm working for [FPT](https://www.fpt.com) company.
+👯 I'm a full-stack software engineer with a passion for coding.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=quanhnv.quanhnv)
 [<img alt="github" src="https://img.shields.io/badge/github-quanhnv-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/quanhnv)
